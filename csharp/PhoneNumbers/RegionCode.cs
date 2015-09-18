@@ -23,6 +23,7 @@ namespace PhoneNumbers
         public const String DE = "DE";
         public const String GB = "GB";
         public const String IT = "IT";
+        public const String IL = "IL";
         public const String JP = "JP";
         public const String KR = "KR";
         public const String MX = "MX";
